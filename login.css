@@ -1,0 +1,16 @@
+main
+{
+    height: 100%;
+    margin: 0;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: rgb(173, 173, 173);
+    padding: 5%;
+}
+main a {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-style: italic;
+}
